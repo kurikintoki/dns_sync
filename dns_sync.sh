@@ -1,3 +1,5 @@
+#!/bin/bash
+
 user=root
 targetip=1.1.1.1
 
